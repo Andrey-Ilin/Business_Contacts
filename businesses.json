@@ -1,0 +1,26 @@
+{
+  "0":{
+    "category": "Retail",
+    "city": "Kharkiv",
+    "company": "Best LLC",
+    "description": "Maybe somewhere",
+    "email": "test@test.com",
+    "phone": "9999999",
+    "state": "Kharkiv",
+    "street_adress": "94v-379 Tractor",
+    "years_in_business": "7",
+    "zipcode": "12345"
+  },
+  "1":{
+    "category": "It",
+    "city": "Kiev",
+    "company": "NotBest LLC",
+    "description": "Maybe somewhere",
+    "email": "rest@test.com",
+    "phone": "9876654",
+    "state": "Kiev",
+    "street_adress": "Lenin avenue",
+    "years_in_business": "4",
+    "zipcode": "54321"
+  }
+}
