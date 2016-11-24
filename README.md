@@ -1,3 +1,7 @@
+1) you should install angular-cli global, run "npm install -g angular-cli"
+2) run "npm install" after cloning
+3) run "ng serve" and goto "localhost:4200", enjoy application
+
 # Businesscontacts
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.19-3.
